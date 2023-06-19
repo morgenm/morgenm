@@ -1,16 +1,26 @@
-### Hi there 👋
+<div id="badges" align="center">
+    <a href="https://www.linkedin.com/in/morgen-malinoski">
+        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <a href="https://morgenm.github.io/">
+        <img src="https://img.shields.io/badge/Blog-purple?style=for-the-badge" alt="Blog"/>
+    </a>
+</div>
+<div id="views" align="center">
+    <img src="https://komarev.com/ghpvc/?username=morgenm&style=for-the-badge&color=blue" alt=""/>
+</div>
 
-<!--
-**morgenm/morgenm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Information Security Analyst working in Incident Response.
+
+I contribute to open source projects and maintain a cybersecurity blog. 
+I am interested in:
+- Application Security
+- Reverse Engineering and Malware Analysis
+- ML/AI
+
+### Stats
+![Metrics](https://metrics.lecoq.io/morgenm?template=classic&lines=1&languages=1&notable=1&activity=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&languages=false&languages.ignored=html%2C%20css%2C%20scss&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&lines=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&notable=false&notable.from=organization&notable.repositories=false&notable.indepth=false&notable.types=commit&notable.self=false&activity=false&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&config.timezone=America%2FChicago)
