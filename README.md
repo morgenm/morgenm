@@ -16,8 +16,9 @@
 
 Information Security Analyst working in Incident Response.
 
-I contribute to open source projects and maintain a cybersecurity blog. 
+I contribute to open source projects and maintain a blog. 
 I am interested in:
+- Software Development and Engineering
 - Application Security
 - Reverse Engineering and Malware Analysis
 - ML/AI
